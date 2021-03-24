@@ -8,6 +8,7 @@
 
 ## :rocket: Funcionalidades
 
+- Drag and Drop
 
 ## 🛠 Technology
 
