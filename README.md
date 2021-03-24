@@ -4,7 +4,7 @@
 
 <h2>Tela de Início</h2>
 
-![image](https://user-images.githubusercontent.com/72694905/112062201-5b3eaf00-8b3e-11eb-9d8a-4d69d016f49b.png)
+
 
 ## :rocket: Funcionalidades
 
